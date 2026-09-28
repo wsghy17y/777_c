@@ -1,0 +1,16 @@
+﻿  test1.c
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0x71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0x78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0xae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0xb2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0xb3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0xb4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0xb8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(1,1): warning C4828: 文件包含在偏移 0xb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\code\study.c\study.c\test1.c(7,12): warning C4876: 字符串字面量中存在不完整或无效的多字节字符。请使用转义序列保留这些字节值。
+C:\code\study.c\study.c\test1.c(10,16): warning C4876: 字符串字面量中存在不完整或无效的多字节字符。请使用转义序列保留这些字节值。
+  study.c.vcxproj -> C:\code\study.c\x64\Debug\study.c.exe
